@@ -69,3 +69,7 @@ c:\users\vic finney\documents\visual studio 2015\Projects\ContosoUniversity\Cont
 c:\users\vic finney\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 c:\users\vic finney\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 c:\users\vic finney\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Vic Finney\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\Vic Finney\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Vic Finney\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\Vic Finney\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
