@@ -147,3 +147,6 @@ C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\Cont
 C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.AddedDataAnotationsAndFullNameToStudentEntity.resources
+C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.AddedInstructorandOfficeAssignmentEntities.resources

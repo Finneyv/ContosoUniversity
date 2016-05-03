@@ -196,12 +196,26 @@
     <Compile Include="Migrations\201605031447037_InitialCreate.Designer.cs">
       <DependentUpon>201605031447037_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201605031942285_MaxLengthOnNames.cs" />
+    <Compile Include="Migrations\201605031942285_MaxLengthOnNames.Designer.cs">
+      <DependentUpon>201605031942285_MaxLengthOnNames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605031956392_AddedDataAnotationsAndFullNameToStudentEntity.cs" />
+    <Compile Include="Migrations\201605031956392_AddedDataAnotationsAndFullNameToStudentEntity.Designer.cs">
+      <DependentUpon>201605031956392_AddedDataAnotationsAndFullNameToStudentEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605032007406_AddedInstructorandOfficeAssignmentEntities.cs" />
+    <Compile Include="Migrations\201605032007406_AddedInstructorandOfficeAssignmentEntities.Designer.cs">
+      <DependentUpon>201605032007406_AddedInstructorandOfficeAssignmentEntities.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Enrollment.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Instructor.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\OfficeAssignment.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -285,6 +299,15 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201605031447037_InitialCreate.resx">
       <DependentUpon>201605031447037_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605031942285_MaxLengthOnNames.resx">
+      <DependentUpon>201605031942285_MaxLengthOnNames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605031956392_AddedDataAnotationsAndFullNameToStudentEntity.resx">
+      <DependentUpon>201605031956392_AddedDataAnotationsAndFullNameToStudentEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605032007406_AddedInstructorandOfficeAssignmentEntities.resx">
+      <DependentUpon>201605032007406_AddedInstructorandOfficeAssignmentEntities.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
