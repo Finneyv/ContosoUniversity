@@ -145,3 +145,5 @@ C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.
 C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\Vic Finney\Documents\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
